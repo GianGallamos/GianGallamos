@@ -1,16 +1,20 @@
-## Hi there 👋
+# Good Day :3 I'm Gian Paolo S. Gallamos
 
-<!--
-**GianGallamos/GianGallamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently 2nd Year College at New Era University as BSIT.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **Bachelor of Science in Information Technology**  
+  - New Era University  
+  - 2024–Present  
+
+
+## 📜 Certifications
+- https://courses.cognitiveclass.ai/certificates/e0ef7e614e894de3a1c52605af23a52f
+
+
+## 🛠 Skill Sets
+- SQL  
+- Python  
+- HTML  
+- CSS  

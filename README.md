@@ -23,4 +23,6 @@ Currently 2nd Year College at New Era University as BSIT.
 - SQL  
 - Python  
 - HTML  
-- CSS  
+- CSS
+- Databases: IBM DB2 Cloud
+- Tools:  Lucidchart, Jaspersoft Studio, Eclipse  

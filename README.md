@@ -1,4 +1,4 @@
-# Good Day :3 I'm Gian Paolo S. Gallamos
+ I'm Gian Paolo S. Gallamos
 
 Currently 2nd Year College at New Era University as BSIT.
 
@@ -15,6 +15,7 @@ Currently 2nd Year College at New Era University as BSIT.
 -  [Oracle Data Platform 2025 Certified Foundations Associate
 ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=60D4CFE7D8E7DAB70AF8C1F0ED74AD889E1644420EC4098D9824A398FF1086E2)
 -  [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=414014E676DBC76B5B08CA32CF57B3BE69C31778838758C955F086964E1DDBC2)
+-  [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/75c72836c7b54bdfb1f1a9a47143f17d)
 
 
 
